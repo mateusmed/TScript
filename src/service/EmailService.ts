@@ -22,7 +22,7 @@ interface IEmailService{
 }
 
 
-class EmailService implements IEmailService{
+export class EmailService implements IEmailService{
     sendEmail(to: IMailTo, message: IMailMessage){
         return `email enviado para ${to.name}: ${message.subject}`
     }
@@ -47,5 +47,3 @@ class EmailService implements IEmailService{
     }
     */
 }
-
-export default EmailService;

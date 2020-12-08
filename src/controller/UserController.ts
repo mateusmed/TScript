@@ -1,7 +1,7 @@
 import {Request, Response} from "express";
-import EmailService from "../service/EmailService";
+import {EmailService} from "../service/EmailService";
 
-class UserController{
+export class UserController{
     users = [ { name: 'Mateus', email: 'mateus@gmail.com'} ]
 
     async index(req: Request, res: Response){
@@ -34,5 +34,3 @@ class UserController{
         res.send(response)
     }
 }
-
-export default UserController
