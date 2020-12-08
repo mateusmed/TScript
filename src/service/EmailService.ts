@@ -4,7 +4,6 @@ interface IMailTo{
     email: string;
 }
 
-
 // ?: significa se é "opcional" ou não.
 interface IMailMessage{
     subject: string;
@@ -17,8 +16,13 @@ interface IMessageDTO{
     message: IMailMessage
 }
 
+//exemplo de interface para implementar metodos
+interface IEmailService{
+    sendEmail(to: IMailTo, message: IMailMessage): string;
+}
 
-class EmailService{
+
+class EmailService implements IEmailService{
     sendEmail(to: IMailTo, message: IMailMessage){
         return `email enviado para ${to.name}: ${message.subject}`
     }
