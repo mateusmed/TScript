@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53ba0a6a-6b81-44c6-8ca9-a458a8369664" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/simpleTestAPI/src/routes.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/simpleTestAPI/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TScript.md" beforeDir="false" afterPath="$PROJECT_DIR$/simpleTestAPI/TScript.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/compiled/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/simpleTestAPI/compiled/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/simpleTestAPI/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controller/UserController.ts" beforeDir="false" afterPath="$PROJECT_DIR$/simpleTestAPI/src/controller/UserController.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/simpleTestAPI/src/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/service/EmailService.ts" beforeDir="false" afterPath="$PROJECT_DIR$/simpleTestAPI/src/service/EmailService.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/simpleTestAPI/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2CWuGuyCPWDvxM9M241H6IF7gKs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../shell" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.3.5\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\dev\workspaceMateus\TScript\simpleTestAPI" />
+      <recent name="C:\dev\workspaceMateus\TScript\firstTest" />
+      <recent name="C:\dev\workspaceMateus\TScript\fistTest" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53ba0a6a-6b81-44c6-8ca9-a458a8369664" name="Default Changelist" comment="" />
+      <created>1658930569643</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658930569643</updated>
+      <workItem from="1658930570906" duration="5039000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/secondTest/src/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="442" y="-918" key="DiffContextDialog" timestamp="1658931984833">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="442" y="-918" key="DiffContextDialog/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1658931984833" />
+    <state x="740" y="-805" key="FileChooserDialogImpl" timestamp="1658931298798">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="740" y="-805" key="FileChooserDialogImpl/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1658931298798" />
+    <state x="786" y="-849" key="RollbackChangesDialog" timestamp="1658931986296">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="786" y="-849" key="RollbackChangesDialog/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1658931986296" />
+  </component>
+</project>
